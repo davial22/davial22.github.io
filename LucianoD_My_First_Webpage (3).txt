@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sports</title>
+</head>
+<body>
+
+  <body>
+  </body>
+<h1>Basketball</h1>
+<h2>What basketball is</h2>
+
+<p>Basketball is a sport that can bring people together, whether you're playing or just watching. Its a team sport played on a court where two teams of five players compete to score points by shooting the ball into the other teams hoop.  </p>
+<h2>Drills for basketball</h2>
+
+<HR><p>Basketball comes with a lot of skills, skills come with pratice, practice makes perfect.You are going to have to do alot of drills, excercises, and work in order to be who you want to be when it comes to basketball. Some drills can be dribblings drills, shooting drills, and team games (scrimages).</p>
+
+<h2>Rules in basketball</h2>
+
+
+<p>The game is played on a rectangular court with two teams of five players.The court is divided by a mid-court line. The offensive team has 10 seconds to get the ball over the mid-court line. Basketball rules include how to score, how to move the ball, and how to avoid fouls.  </p>
+<h2>NBA teams</h2>
+
+<HR><p><li>Lakers, </li> <li>Mavericks </li><li> Celtics</li>  There is 30 teams in across north america featuring the best player in the world.</p>
+
+
+</body>
+</html>
+
+Webpage designed by 
+<br>
+David Luciano
