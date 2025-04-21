@@ -3,9 +3,21 @@
 }
 
 * .header{
+  text-align:  center;
+  background-color:  black;
+  font-family:  Lucida Handwriting;
+  color:  green;
+  font-size:  49px;
+  
 }
 
 * .header2{
+   text-align:  center;
+  background-color:  green;
+  font-family:  Lucida Handwriting;
+  color: black;
+  font-size:  49px;
+  
 }
 
 * .main{
