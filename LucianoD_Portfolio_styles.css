@@ -1,30 +1,27 @@
-*{
-  box-sizing:border-box;
+* {
+  box-sizing: border-box;
 }
 
-
-*.header{
+.header {
   text-align: center;
-  font:  Lucida Handwritting;
-  color: black;
-  background-color:green;
-  font-size:40px;
-}
-
-*.header2{
-   text-align: center;
-  font: Lucida Handwritting;
+  font-family: 'Lucida Handwriting', cursive; 
   color: black;
   background-color: green;
-  font-size:40px;
-
+  font-size: 40px;
 }
 
-*.main{
-   text-align: center;
-  font: Lucida Handwritting;
+.header2 {
+  text-align: center;
+  font-family: 'Lucida Handwriting', cursive;
   color: black;
   background-color: green;
-  font-size:30px;
- 
+  font-size: 40px;
+}
+
+.main {
+  text-align: center;
+  font-family: 'Lucida Handwriting', cursive;
+  color: black;
+  background-color: green;
+  font-size: 30px;
 }
