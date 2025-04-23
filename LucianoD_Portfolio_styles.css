@@ -21,4 +21,9 @@
 }
 
 * .main{
+    text-align:  center;
+  background-color:  green;
+  font-family:  Lucida Handwriting;
+  color: black;
+  font-size:  49px;
 }
