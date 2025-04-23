@@ -5,16 +5,17 @@
 
 *.header{
   text-align: center;
-  font:  Times New Roman;
-  color: lavender;
-  background-color:lightblue;
-  font-size:40px;
+  font:  Lucida Handwritting;
+  color: black;
+  background-color:green;
+  font-size:50px;
 }
 
 *.header2{
    text-align: center;
-  font: Times New Roman;
-  color: pink;
+  font: Lucida Handwritting;
+  color: black;
+  background-color: green;
   font-size:40px;
 
 }
@@ -22,7 +23,8 @@
 *.main{
    text-align: center;
   font: Times New Roman;
-  color: blue;
+  color: black;
+  background-color: green;
   font-size:30px;
  
 }
